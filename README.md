@@ -1,4 +1,4 @@
-# cron-pron
+# cron-prom
 Simple Go-cron based on https://github.com/robfig/cron with prometheus metric of failed jobs count.
 
 ### Possible environment variables
